@@ -1,0 +1,5 @@
+name: XJZ
+version: '${version}'
+main: me.calrl.xjz.XJZ
+api-version: '1.21'
+load: STARTUP
